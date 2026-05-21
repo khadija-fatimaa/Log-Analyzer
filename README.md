@@ -12,7 +12,7 @@ why** — it never silently drops data.
 
 ## Requirements
 
-- Python 3.8 or newer. That's it — only the standard library is used. No `pip install`.
+- Python 3.8 or newer. That's it only the standard library is used. No `pip install`.
 
 ## How to run
 
