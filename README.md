@@ -8,7 +8,7 @@ Its main job is **robustness**. Real logs contain malformed lines, multiple
 timestamp formats, mixed response-time units, missing fields, and even
 JSON-formatted lines bolted on by a different logger. loglens parses what it
 can, skips what it can't, and **always reports exactly what it skipped and
-why** — it never silently drops data.
+why** it never silently drops data.
 
 ## Requirements
 
