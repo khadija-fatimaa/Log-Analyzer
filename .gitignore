@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated test logs (regenerate with scripts/generate_logs.py)
+*.log
